@@ -14,9 +14,10 @@
         android:text="Gestion des etudiants"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.472"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.131" />
+        app:layout_constraintVertical_bias="0.236" />
 
     <Button
         android:id="@+id/btnProf"
@@ -27,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnEtd"
-        app:layout_constraintVertical_bias="0.104" />
+        app:layout_constraintVertical_bias="0.21" />
 
     <Button
         android:id="@+id/btnMod"
@@ -38,15 +39,21 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnProf"
-        app:layout_constraintVertical_bias="0.218" />
+        app:layout_constraintVertical_bias="0.411" />
 
     <TextView
         android:id="@+id/etTbl"
-        android:layout_width="105dp"
-        android:layout_height="29dp"
+        android:layout_width="256dp"
+        android:layout_height="52dp"
+        android:autoText="false"
+        android:background="#9C27B0"
         android:text="Menu Principal"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toTopOf="@+id/btnEtd"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.59" />
 </androidx.constraintlayout.widget.ConstraintLayout>

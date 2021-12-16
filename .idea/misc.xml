@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MHDN/Desktop/GestionScolariteAndroid/app/src/main/res/layout/activity_gestion_etudiant.xml" value="0.2" />
+        <entry key="..\:/Users/MHDN/Desktop/GestionScolariteAndroid/app/src/main/res/layout/activity_gestion_groupe.xml" value="0.25" />
+        <entry key="..\:/Users/MHDN/Desktop/GestionScolariteAndroid/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
         <entry key="..\:/Users/MHDN/Desktop/GestionScolariteAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/balfa/AndroidStudioProjects/gestionScolaire/app/src/main/res/layout/activity_gestion_etudiant.xml" value="0.23822463768115942" />
         <entry key="..\:/Users/balfa/AndroidStudioProjects/gestionScolaire/app/src/main/res/layout/activity_gestion_groupe.xml" value="0.21467391304347827" />
